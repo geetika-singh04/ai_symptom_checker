@@ -23,7 +23,7 @@ This project is an AI-powered health assistant built using **IBM Watson Assistan
 
 ## 📸 Demo
 
-![Chat Demo](preview11.png)
+![Chat Demo](preview1.png)
 
 ## 📚 References
 * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
